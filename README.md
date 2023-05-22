@@ -5,7 +5,7 @@ Huge interest in deep learning and robotics 🤖. I mainly work in 😎**compute
   * extracting tag from P&ID files (construction industry)
   * body pose estimation
 
-⚡ Fun fact: Even though, I created my github account a couple year ago, I used to not publish anything. So, It's like a fresh start🤔
+⚡ Fun fact: Even though, I created my github account a couple years ago, I used to not publish anything. So, It's like a fresh start🤔
 <!--
 **potcham/potcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

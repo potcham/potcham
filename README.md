@@ -1,5 +1,11 @@
 ### Hi there 👋
+Huge interest in deep learning and robotics 🤖. I mainly work in 😎**computer vision**😎 topics but I am getting into audio & NLP.
 
+🔭 I’m currently collaborating on specific projects:
+  * extracting tag from P&ID files (construction industry)
+  * body pose estimation
+
+⚡ Fun fact: Even though, I created my github account a couple year ago, I used to not publish anything. So, It's like a fresh start🤔
 <!--
 **potcham/potcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
